@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React Projects**
 

@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurram-ak&label=Profile%20views&color=0e75b6&style=flat" alt="khurram-ak" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **React and Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **React Projects And Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khurram-ak](https://github.com/Khurram-ak)
 

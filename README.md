@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khurram amir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurram-ak&label=Profile%20views&color=0e75b6&style=flat" alt="khurram-ak" /> </p>
 
-- 🔭 I’m currently working on **React and Flutter Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **React Projects And Flutter Projects**
+- 👯 I’m looking to collaborate on **Web Projects And Mobile App Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khurram-ak](https://github.com/Khurram-ak)
 
-- 📫 How to reach me **khurramamirak2016@gmail.com**
+- 📫 How to reach me **khurram.dev24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
